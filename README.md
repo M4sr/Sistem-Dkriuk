@@ -88,7 +88,6 @@ Sistem manajemen restoran dan pemesanan online modern yang dirancang khusus untu
 │   ├── js/             # Script pendukung
 │   └── img/            # Folder upload (produk, logo, bukti bayar)
 ├── config/             # Konfigurasi sistem
-├── DB/                 # File backup Database
 ├── public/             # Entry point (index.php & .htaccess)
 └── index.php           # Landing page router
 ```

@@ -99,6 +99,21 @@ Sistem manajemen restoran dan pemesanan online modern yang dirancang khusus untu
 > [!TIP]
 > Desain aplikasi ini menggunakan konsep **Modern & Appetite-Driven**, mengandalkan warna merah khas D'Kriuk untuk meningkatkan pengalaman pengguna dalam memesan makanan.
 
+### 🏠 Customer Side (Desktop)
+| Beranda (Hero) | Menu Digital | Pelacakan Pesanan |
+| --- | --- | --- |
+| ![Beranda](preview/beranda.png) | ![Menu](preview/menu.png) | ![Tracking](preview/tracking.png) |
+
+### 📱 Responsive & Mobile First
+| Mobile View Home | Mobile View Menu | Mobile View Cart |
+| --- | --- | --- |
+| ![Mobile Home](preview/mobile_home.png) | ![Mobile Menu](preview/mobile_menu.png) | ![Mobile Cart](preview/mobile_cart.png) |
+
+### 🛡️ Admin Side (Dashboard)
+| Dashboard Analitik | Manajemen Pesanan | Pengaturan Toko |
+| --- | --- | --- |
+| ![Dashboard](preview/admin_dashboard.png) | ![Pesanan](preview/admin_orders.png) | ![Settings](preview/admin_settings.png) |
+
 ---
 
 ## 📄 Lisensi
